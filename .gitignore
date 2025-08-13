@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# dotenv environment variable files
+.env
+
+# TypeScript
+*.tsbuildinfo
+dist/
+build/
+lib/
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# OS generated files for macOS
+.DS_Store
